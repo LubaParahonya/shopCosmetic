@@ -1,0 +1,54 @@
+.main{
+margin-left: 100px;
+margin-right: 100px;
+margin-top: 130px;
+display: flex;
+justify-content: space-between;
+
+.topText{
+    font-family: Red Hat Display;
+font-size: 30px;
+font-weight: 500;
+margin-bottom: 12px;
+.star{
+    width: 168px;
+    height: 24px;
+}
+
+}
+
+.bottomText{
+    margin-top: 43px;
+    width: 625px;
+    height: 128px;
+    font-family: Red Hat Display;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 32px;
+
+    }
+
+    .personName{
+        font-family: Red Hat Display;
+font-size: 30px;
+font-weight: 500;
+line-height: 40px;
+text-align: left;
+
+    }
+
+    .job{
+        font-family: Red Hat Display;
+font-size: 20px;
+font-weight: 400;
+line-height: 24px;
+text-align: left;
+
+    }
+
+    .next{
+        border-radius: 50%;
+    }
+
+    
+}

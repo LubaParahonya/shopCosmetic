@@ -1,0 +1,20 @@
+.logo1{
+    display: flex;
+    justify-content: center;
+    margin-top: 130px;
+    height: 113px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.listImg{
+    display: flex;
+    list-style: none;
+    gap: 120px;
+}
+.itemImg{
+    height: 25px;
+    transition: all 500ms ease;
+    &:hover{
+        transform: scale(1.3);
+    }
+}

@@ -1,0 +1,31 @@
+.main{
+    display: flex;
+    padding-left: 100px;
+    padding-right: 100px;
+    justify-content: space-between;
+    margin-top: 130px;
+    background: #e4dedb;
+    opacity: 85%;
+    
+}
+.value{   
+font-family: 'Red Hat Display';
+font-size: 34px;
+font-weight: 900;
+line-height: 30px;
+text-decoration: underline;
+}
+.text{
+    width: 186px;
+    height: 30px;
+    font-family: 'Red Hat Display';
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 30px;
+    margin-top: 30px;
+}
+.block{
+    margin: auto;
+    text-align: center;
+    padding: 58px;
+}
